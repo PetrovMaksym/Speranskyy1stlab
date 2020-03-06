@@ -1,6 +1,6 @@
 ﻿// Speranskyy1stlab.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
-
+//-----15-----
 #include <iostream>
 #include <string>
 #include <ctime>
